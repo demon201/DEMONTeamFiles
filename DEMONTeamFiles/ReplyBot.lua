@@ -2,6 +2,11 @@ local function Reply(msg)
 local text = msg.content_.text_
 if ChatType == 'sp' or ChatType == 'gp'  then
 if not Devmfm:get(mustafa..'mfm:Lock:Reply'..msg.chat_id_) then
+function SendNewton(TexeS,TextN)
+if text == TextS then
+Dev_mfm(msg.chat_id_, msg.id_, 1,TextN, 1, 'md')
+end
+end
 if text == "انجب" or text == "نجب" or text == "انجبي" or text == "نجبي" or text == "انجبو" or text == "نجبو" then
 if SudoId(msg) then
 rd = 'مطوريي اغلط شكد متريد نورتنه ، ♥️💪🏿'
