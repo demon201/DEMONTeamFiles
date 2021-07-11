@@ -231,123 +231,477 @@ mustafaTEAM =  "لُِآ سوورس خآلُِتڪ دِي لُِڪ 𖠙 😒🔪
 Dev_mfm(msg.chat_id_, msg.id_, 1, mustafaTEAM, 1, 'md')
 return false
 end
-SendNewton("واو","جميل 🌝🌿")
-SendNewton("🌺"," وانته عطرهه😻❤️")
-SendNewton("🐸"," زاحف😹")
-SendNewton("😴"," متولي تنام لعد😒😹")
-SendNewton("👳‍♀️"," استر علينه شيخ😹😹")
-SendNewton("🤔"," 😹بشنو دتفكر 😕")
-SendNewton("💦"," بوجهك ياكلب بن الكلب")
-SendNewton("🤓"," شدتحس😜")
-SendNewton("😏"," عدل حلكك يول😂")
-SendNewton("خاص"," اجي وياكم😻")
-SendNewton("تكرهني","موووووت")
-SendNewton("اضحك","هههههههههههههه")
-SendNewton("ابجي","اهئ اهئ اهئ اهئ")
-SendNewton("من وين","ونته شكو عوف لعالم بحاله")
-SendNewton("ع راسي","سالم راسك")
-SendNewton("فدوه","لخشمك يرؤحي")
-SendNewton("كرياتين","يخبل احسن نوعيه للشعر")
-SendNewton("موهير","يخلونه ما بعد الكرياتين حته الشعر يخبل يصير وسرح ولمعه بي ")
-SendNewton("عسل"," مثلك😻")
-SendNewton("فديتك"," فداك الي بالي😻")
-SendNewton("منو بالك"," عباس ابو الغاز شبيك😻")
-SendNewton("استغفرلله"," بركاتك مولاي♡♥️")
-SendNewton("راح اكفر","اشك حلكك اذا اسؤيهه")
-SendNewton("مداك"," اجاوزك بسرعتي امري لله😻")
-SendNewton("امك شلونهه","مو البارحه جانت يم امك")
-SendNewton("ابوك شلونه"," الحمدلله بخير😻")
-SendNewton("اكلج","داحسك دتزحف")
-SendNewton("تخليني"," وانته وين عدك😻")
-SendNewton("مطي"," حسن اخلاقك حب")
-SendNewton("نعل"," بحلكك كبد")
-SendNewton("بخير"," عساك دوم انشالله")
-SendNewton("ضيف جديد","*اهلا وسهلا~♡")
-SendNewton("هلوو"," يممممه هلا ب نبضي♡♥️😻")
-SendNewton("احبج"," وليحب بلوه وين الله وقسمتي ترؤح يم عيؤؤنج الحلوه")
-SendNewton("شكد تحبني"," بكد هوه الله بكد الكائنات")
-SendNewton("موال","☝🏿شكولي مال تحشيش ماخربها بلموال 😹❤️")
-SendNewton("صاكه"," وينها خلي اكفش شعرها 😹😍 ")
-SendNewton("عشق"," يمه اذوبــن 😌❤️ ")
-SendNewton("مرتي"," يمه اذوبــن ♡♥️")
-SendNewton("ملابس"," 🌚☝🏿 تريدهن من المول لو من باله ؟ ")
-SendNewton("مول"," 😹☝🏿يريد يقطني ماشتريلك لوتموت ")
-SendNewton("باله"," 😹☝🏿 موحلوات عليك هم ماشتري")
-SendNewton("اشو ماكو احد","موجودين حياتي-_-♥️")
-SendNewton("بعدك لو بطلت","بربك اكو واحد يعوف شغله -_-")
-SendNewton("دي","انته اكبر زربه وبطل هاي اخلاقك زباله")
-SendNewton("اشو مختفي","وين مختفي بنلخرا غير موجود-_-")
-SendNewton("حبك","اعشقك يروح الروح") 
-SendNewton("اكرهك","بس مو بكدي ههه")
-SendNewton("بمكن علاقه","دي😹سؤي ؤيه خالتك ")
-SendNewton("حبيتك","شنو من اول رد حبيتني😹😹")
-SendNewton("مشتاقلك","انته ليش اجذب؟😹")
-SendNewton("مشتاقلج","😹بدء الزحف😹")
-SendNewton("شكد عمرك","اسف مرتبط😹")
-SendNewton("🙄","عدل عيؤنك لصير احول😐")
-SendNewton("هلو باي","شحسيت من هيج كتبت😹")
-SendNewton("خره"," بـحـلكڪ😒💦 ")
-SendNewton("نعال"," اخلاقك حبي😹😻")
-SendNewton("تعال"," وين اجي😕 ")
-SendNewton("السلام عليكم"," وعليكم السلام ورحمه حته الله😒😹 ")
-SendNewton("مساء الخير"," مساء النؤر حياتي ")
-SendNewton("صباح الخير"," صباح الؤرد🙈 ")
-SendNewton("باي"," سلمنه ع اهلك كلهم😹 ")
-SendNewton("تصبحون ع خير"," وانته من اهلو ")
-SendNewton("هاي"," هايات يرؤحي🙈😻")
-SendNewton("احم"," اسـم الله😧اشربـ/ي دوة😓 ")
-SendNewton("وينك"," موجود حبي☺️")
-SendNewton("اكلك"," لتكول تره صطرتنه😹")
-SendNewton("اتفل"," خووووختف💦💦")
-SendNewton("اموت عليك"," 😻me to love🙈")
-SendNewton("شكو"," لتدخل بما لا يعنيك😹🐸")
-SendNewton("اكلكم","😹لتكول😹")
-SendNewton("اوف"," سلامتك من ال اوف")
-SendNewton("شونك"," ع خودا😹 وانته")
-SendNewton("احجي عربي"," لك بابا العربي ميرادله شي بس اقراه انكليزي😹")
-SendNewton("💔"," ع شنو مكسؤر قلبك😒")
-SendNewton("تسلم"," عياتو ولو😹🙈")
-SendNewton("شكرا"," ولو😹")
-SendNewton("اجه العيد","😹 لعد متسبح😹")
-SendNewton("🚶","وين جاي وين مولي")
-SendNewton("ضوجه","واني شعليه مثلا شسؤيلك")
-SendNewton("😻","ع شنو فرحان😒")
-SendNewton("😞","يمه فدوه ضايج الحلو🙊")
-SendNewton("🙈","عود يستحي الوصخ")
-SendNewton("😐","كبر لفك")
-SendNewton("هلو","هلاوات نورت ❤️")
-SendNewton("منور","لا مو منور بومة ")
-SendNewton("☹️","دنيا متسوه ضلعي 😔💔")
-SendNewton("منورة","بنورك حياتي♥")
-SendNewton("🌝","مـنـوـر حـب")
-SendNewton("حلو","متلك دلعي 🙈💘")
-SendNewton("ههههه","دوم פـٍـٍبيبي")
-SendNewton("هههههه","دوم פـٍـٍبيبي")
-SendNewton("😍","عود فرحان الوصخ")
-SendNewton("☺️","اكعد راحه سمير")
-SendNewton("💋","اموووووح حياتي ❤🌹")
-SendNewton("ههه","دوم פـٍـٍبيبي")
-SendNewton("هههه","دوم פـٍـٍبيبي") 
-SendNewton("ميمو","راح يلتحق عوفه بنلخرا")
-SendNewton("هلا","✾  هـﮩـڵا ہبـﮩـک ")
-SendNewton('تفعيل',"يشتغل بدون تفعيل حمبي",]);}
-SendNewton("شكو ماكو","سلامتك")
-SendNewton("شلونك","تمام")
-SendNewton("تحبني","اعشقك")
-SendNewton("جذاب","لا")
-SendNewton("ها","وجعا")
-SendNewton("ولي","دي")
-SendNewton("احبك","واني هم")
-SendNewton("حلو","ٱنـﮩـت الاحـلا")
-SendNewton("😎","يلا عود انته فد نعال")
-SendNewton("😱","خير خوفتني ")
-SendNewton("منو اكثر واحد","خالتك")
-SendNewton("ابن الكلب","عيب ابني 🔥")
-SendNewton("كواد","عيب 😨�🔥")
-SendNewton("الهيبه"," ؤرده مال الله هاذا")
-SendNewton("قندره","😂بحلكك😂")
-SendNewton("احبج","حبتك حيه ام راسين نشالله")
-SendNewton("🙂" ," ؏ۤـہٰٰوِد صۛہٰٰآيِٰہر ثہٰٰڪٰྀہٰٰٖيِٰہل 😕 ")
+if text == "واو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"جميل 🌝🌿"1, 'md') 
+return false
+end
+if text == "🌺" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وانته عطرهه😻❤️"1, 'md') 
+return false
+end
+if text == "🐸" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," زاحف😹"1, 'md') 
+return false
+end
+if text == "😴" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," متولي تنام لعد😒😹"1, 'md') 
+return false
+end
+if text == "👳‍♀️" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," استر علينه شيخ😹😹"1, 'md') 
+return false
+end
+if text == "🤔" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," 😹بشنو دتفكر 😕"1, 'md') 
+return false
+end
+if text == "💦" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," بوجهك ياكلب بن الكلب"1, 'md') 
+return false
+end
+if text == "🤓" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," شدتحس😜"1, 'md') 
+return false
+end
+if text == "😏" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," عدل حلكك يول😂"1, 'md') 
+return false
+end
+if text == "خاص" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," اجي وياكم😻"1, 'md') 
+return false
+end
+if text == "تكرهني" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"موووووت"1, 'md') 
+return false
+end
+if text == "اضحك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"هههههههههههههه"1, 'md') 
+return false
+end
+if text == "ابجي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اهئ اهئ اهئ اهئ"1, 'md') 
+return false
+end
+if text == "من وين" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"ونته شكو عوف لعالم بحاله"1, 'md') 
+return false
+end
+if text == "ع راسي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"سالم راسك"1, 'md') 
+return false
+end
+if text == "فدوه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"لخشمك يرؤحي"1, 'md') 
+return false
+end
+if text == "كرياتين" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"يخبل احسن نوعيه للشعر"1, 'md') 
+return false
+end
+if text == "موهير" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"يخلونه ما بعد الكرياتين حته الشعر يخبل يصير وسرح ولمعه بي "1, 'md') 
+return false
+end
+if text == "عسل" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," مثلك😻"1, 'md') 
+return false
+end
+if text == "فديتك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," فداك الي بالي😻"1, 'md') 
+return false
+end
+if text == "منو بالك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," عباس ابو الغاز شبيك😻"1, 'md') 
+return false
+end
+if text == "استغفرلله" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," بركاتك مولاي♡♥️"1, 'md') 
+return false
+end
+if text == "راح اكفر" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اشك حلكك اذا اسؤيهه"1, 'md') 
+return false
+end
+if text == "مداك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," اجاوزك بسرعتي امري لله😻"1, 'md') 
+return false
+end
+if text == "امك شلونهه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"مو البارحه جانت يم امك"1, 'md') 
+return false
+end
+if text == "ابوك شلونه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," الحمدلله بخير😻"1, 'md') 
+return false
+end
+if text == "اكلج" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"داحسك دتزحف"1, 'md') 
+return false
+end
+if text == "تخليني" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وانته وين عدك😻"1, 'md') 
+return false
+end
+if text == "مطي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," حسن اخلاقك حب"1, 'md') 
+return false
+end
+if text == "نعل" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," بحلكك كبد"1, 'md') 
+return false
+end
+if text == "بخير" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," عساك دوم انشالله"1, 'md') 
+return false
+end
+if text == "ضيف جديد" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"*اهلا وسهلا~♡"1, 'md') 
+return false
+end
+if text == "هلوو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," يممممه هلا ب نبضي♡♥️😻"1, 'md') 
+return false
+end
+if text == "احبج" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وليحب بلوه وين الله وقسمتي ترؤح يم عيؤؤنج الحلوه"1, 'md') 
+return false
+end
+if text == "شكد تحبني" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," بكد هوه الله بكد الكائنات"1, 'md') 
+return false
+end
+if text == "موال" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"☝🏿شكولي مال تحشيش ماخربها بلموال 😹❤️"1, 'md') 
+return false
+end
+if text == "صاكه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وينها خلي اكفش شعرها 😹😍 "1, 'md') 
+return false
+end
+if text == "عشق" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," يمه اذوبــن 😌❤️ "1, 'md') 
+return false
+end
+if text == "مرتي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," يمه اذوبــن ♡♥️"1, 'md') 
+return false
+end
+if text == "ملابس" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," 🌚☝🏿 تريدهن من المول لو من باله ؟ "1, 'md') 
+return false
+end
+if text == "مول" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," 😹☝🏿يريد يقطني ماشتريلك لوتموت "1, 'md') 
+return false
+end
+if text == "باله" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," 😹☝🏿 موحلوات عليك هم ماشتري"1, 'md') 
+return false
+end
+if text == "اشو ماكو احد" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"موجودين حياتي-_-♥️"1, 'md') 
+return false
+end
+if text == "بعدك لو بطلت" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"بربك اكو واحد يعوف شغله -_-"1, 'md') 
+return false
+end
+if text == "دي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"انته اكبر زربه وبطل هاي اخلاقك زباله"1, 'md') 
+return false
+end
+if text == "اشو مختفي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"وين مختفي بنلخرا غير موجود-_-"1, 'md') 
+return false
+end
+if text == "حبك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اعشقك يروح الروح")1, 'md') 
+return false
+end
+if text == "اكرهك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"بس مو بكدي ههه"1, 'md') 
+return false
+end
+if text == "بمكن علاقه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دي😹سؤي ؤيه خالتك "1, 'md') 
+return false
+end
+if text == "حبيتك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"شنو من اول رد حبيتني😹😹"1, 'md') 
+return false
+end
+if text == "مشتاقلك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"انته ليش اجذب؟😹"1, 'md') 
+return false
+end
+if text == "مشتاقلج" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"😹بدء الزحف😹"1, 'md') 
+return false
+end
+if text == "شكد عمرك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اسف مرتبط😹"1, 'md') 
+return false
+end
+if text == "🙄" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"عدل عيؤنك لصير احول😐"1, 'md') 
+return false
+end
+if text == "هلو باي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"شحسيت من هيج كتبت😹"1, 'md') 
+return false
+end
+if text == "خره" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," بـحـلكڪ😒💦 "1, 'md') 
+return false
+end
+if text == "نعال" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," اخلاقك حبي😹😻"1, 'md') 
+return false
+end
+if text == "تعال" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وين اجي😕 "1, 'md') 
+return false
+end
+if text == "السلام عليكم" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وعليكم السلام ورحمه حته الله😒😹 "1, 'md') 
+return false
+end
+if text == "مساء الخير" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," مساء النؤر حياتي "1, 'md') 
+return false
+end
+if text == "صباح الخير" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," صباح الؤرد🙈 "1, 'md') 
+return false
+end
+if text == "باي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," سلمنه ع اهلك كلهم😹 "1, 'md') 
+return false
+end
+if text == "تصبحون ع خير" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," وانته من اهلو "1, 'md') 
+return false
+end
+if text == "هاي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," هايات يرؤحي🙈😻"1, 'md') 
+return false
+end
+if text == "احم" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," اسـم الله😧اشربـ/ي دوة😓 "1, 'md') 
+return false
+end
+if text == "وينك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," موجود حبي☺️"1, 'md') 
+return false
+end
+if text == "اكلك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," لتكول تره صطرتنه😹"1, 'md') 
+return false
+end
+if text == "اتفل" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," خووووختف💦💦"1, 'md') 
+return false
+end
+if text == "اموت عليك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," 😻me to love🙈"1, 'md') 
+return false
+end
+if text == "شكو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," لتدخل بما لا يعنيك😹🐸"1, 'md') 
+return false
+end
+if text == "اكلكم" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"😹لتكول😹"1, 'md') 
+return false
+end
+if text == "اوف" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," سلامتك من ال اوف"1, 'md') 
+return false
+end
+if text == "شونك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," ع خودا😹 وانته"1, 'md') 
+return false
+end
+if text == "احجي عربي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," لك بابا العربي ميرادله شي بس اقراه انكليزي😹"1, 'md') 
+return false
+end
+if text == "💔" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," ع شنو مكسؤر قلبك😒"1, 'md') 
+return false
+end
+if text == "تسلم" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," عياتو ولو😹🙈"1, 'md') 
+return false
+end
+if text == "شكرا" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," ولو😹"1, 'md') 
+return false
+end
+if text == "اجه العيد" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"😹 لعد متسبح😹"1, 'md') 
+return false
+end
+if text == "🚶" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"وين جاي وين مولي"1, 'md') 
+return false
+end
+if text == "ضوجه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"واني شعليه مثلا شسؤيلك"1, 'md') 
+return false
+end
+if text == "😻" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"ع شنو فرحان😒"1, 'md') 
+return false
+end
+if text == "😞" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"يمه فدوه ضايج الحلو🙊"1, 'md') 
+return false
+end
+if text == "🙈" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"عود يستحي الوصخ"1, 'md') 
+return false
+end
+if text == "😐" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"كبر لفك"1, 'md') 
+return false
+end
+if text == "هلو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"هلاوات نورت ❤️"1, 'md') 
+return false
+end
+if text == "منور" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"لا مو منور بومة "1, 'md') 
+return false
+end
+if text == "☹️" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دنيا متسوه ضلعي 😔💔"1, 'md') 
+return false
+end
+if text == "منورة" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"بنورك حياتي♥"1, 'md') 
+return false
+end
+if text == "🌝" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"مـنـوـر حـب"1, 'md') 
+return false
+end
+if text == "حلو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"متلك دلعي 🙈💘"1, 'md') 
+return false
+end
+if text == "ههههه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دوم פـٍـٍبيبي"1, 'md') 
+return false
+end
+if text == "هههههه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دوم פـٍـٍبيبي"1, 'md') 
+return false
+end
+if text == "😍" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"عود فرحان الوصخ"1, 'md') 
+return false
+end
+if text == "☺️" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اكعد راحه سمير"1, 'md') 
+return false
+end
+if text == "💋" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اموووووح حياتي ❤🌹"1, 'md') 
+return false
+end
+if text == "ههه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دوم פـٍـٍبيبي"1, 'md') 
+return false
+end
+if text == "هههه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دوم פـٍـٍبيبي")1, 'md') 
+return false
+end
+if text == "ميمو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"راح يلتحق عوفه بنلخرا"1, 'md') 
+return false
+end
+if text == "هلا" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"✾  هـﮩـڵا ہبـﮩـک "1, 'md') 
+return false
+end
+if text == 'تفعيل' then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"يشتغل بدون تفعيل حمبي",1, 'md') 
+return false
+end
+Dev_mfm(msg.chat_id_, msg.id_, 1,]);1, 'md') 
+return false
+end
+if text == "شكو ماكو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"سلامتك"1, 'md') 
+return false
+end
+if text == "شلونك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"تمام"1, 'md') 
+return false
+end
+if text == "تحبني" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"اعشقك"1, 'md') 
+return false
+end
+if text == "جذاب" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"لا"1, 'md') 
+return false
+end
+if text == "ها" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"وجعا"1, 'md') 
+return false
+end
+if text == "ولي" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"دي"1, 'md') 
+return false
+end
+if text == "احبك" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"واني هم"1, 'md') 
+return false
+end
+if text == "حلو" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"ٱنـﮩـت الاحـلا"1, 'md') 
+return false
+end
+if text == "😎" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"يلا عود انته فد نعال"1, 'md') 
+return false
+end
+if text == "😱" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"خير خوفتني "1, 'md') 
+return false
+end
+if text == "منو اكثر واحد" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"خالتك"1, 'md') 
+return false
+end
+if text == "ابن الكلب" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"عيب ابني 🔥"1, 'md') 
+return false
+end
+if text == "كواد" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"عيب 😨�🔥"1, 'md') 
+return false
+end
+if text == "الهيبه" then
+Dev_mfm(msg.chat_id_, msg.id_, 1," ؤرده مال الله هاذا"1, 'md') 
+return false
+end
+if text == "قندره" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"😂بحلكك😂"1, 'md') 
+return false
+end
+if text == "احبج" then
+Dev_mfm(msg.chat_id_, msg.id_, 1,"حبتك حيه ام راسين نشالله"1, 'md') 
+return false
+end
+if text == "🙂"  then
+endDev_mfm(msg.chat_id_, msg.id_, 1," ؏ۤـہٰٰوِد صۛہٰٰآيِٰہر ثہٰٰڪٰྀہٰٰٖيِٰہل 😕 ",1,'md')
+return false
+end
 end
 
 if Manager(msg) then
